@@ -24,7 +24,7 @@
     11.1 Linear Search
     11.2 Binary Search
 12.Sorting & *TRIES*
-    11.1 Bubble Sort
+    12.1 Bubble Sort
     12.2 Quick Sort
     12.3 Heap Sort
 13. Dynamic Programming
@@ -40,8 +40,11 @@
 **1. Recursion:**
 Recursive Function: Can have two cases, base case(tells when to shop the recursion call) and a recursive calls.
 
+**List of Problems
+https://leetcode.com/tag/recursion/**
+
 **Problems:
-*Easy:***
+*1.Easy:***
 1. Find Factorial using recursion.
 *Solved Answer*: https://github.com/pramitmitra/DataStructure-Algorithms/blob/master/Recursion_Factorial.java
 
@@ -49,7 +52,7 @@ Recursive Function: Can have two cases, base case(tells when to shop the recursi
 Given the root node of a binary search tree, return the sum of values of all nodes with value between L and R (inclusive).
 The binary search tree is guaranteed to have unique values.
 
- Example 1:
+Example 1:
 Input: root = [10,5,15,3,7,null,18], L = 7, R = 15
 Output: 32
 
@@ -58,6 +61,10 @@ Input: root = [10,5,15,3,7,13,18,1,null,6], L = 6, R = 10
 Output: 23
 
 
+
+
+
+**2.Medium**
 1. Partition Equal Subset Sum
 Ref: https://www.youtube.com/watch?v=3N47yKRDed0
 
@@ -66,8 +73,8 @@ Ref: https://www.youtube.com/watch?v=3N47yKRDed0
     
     
    
- 
- 
+**8. Trees & Binary Search Trees**
+ ![https://media.geeksforgeeks.org/wp-content/uploads/BSTSearch.png]
  
  
  
