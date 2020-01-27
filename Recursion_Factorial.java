@@ -7,7 +7,7 @@ class Rec_Fact
         if(n!=0)
             return (n*fact(n-1));
         else
-            return 1;
+            return 1; // This is the base case of recursion, which tells when to stop the program
     }
 }
 

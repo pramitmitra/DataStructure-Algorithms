@@ -67,9 +67,7 @@ public class LinkedList {
         }
     }
 
-    // **************MAIN METHOD**************
-
-    // method to create a Singly linked list with n nodes
+    // Driver code
     public static void main(String[] args)
     {
         /* Start with the empty list. */

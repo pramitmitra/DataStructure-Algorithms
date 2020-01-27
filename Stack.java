@@ -2,17 +2,17 @@
 operations */
 class Stack {
     static final int MAX = 1000;
-    int top;
+    int top=-1;
     int a[] = new int[MAX]; // Maximum size of Stack
 
-    boolean isEmpty()
+ /*   boolean isEmpty()
     {
         return (top < 0);
-    }
-    Stack()
+    }*/
+/*    Stack()
     {
         top = -1;
-    }
+    }*/
 
     boolean push(int x)
     {
