@@ -32,6 +32,21 @@
 15. Multiple Pointer Sliding Window 
 16. Greedy Algorithm
 17. System Design & Design Principles
+18. Bitwise Operations
+
+
+Detail Topics:
+##1. Recursion:
+Recursive Function: Can have two cases, base case(tells when to shop the recursion call) and a recursive calls.
+
+Problems:
+###Easy:
+1. Find Factorial using recursion.
+
+
+1. Partition Equal Subset Sum
+Ref: https://www.youtube.com/watch?v=3N47yKRDed0
+
     
     
     
