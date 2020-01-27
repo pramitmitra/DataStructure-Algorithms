@@ -40,15 +40,15 @@
 **1. Recursion:**
 Recursive Function: Can have two cases, base case(tells when to shop the recursion call) and a recursive calls.
 
-**List of Problems
-https://leetcode.com/tag/recursion/**
+*List of Problems
+https://leetcode.com/tag/recursion/*
 
-**Problems:
-*1.Easy:***
-1. Find Factorial using recursion.
+*Problems:
+*A.Easy:*
+- Find Factorial using recursion.
 *Solved Answer*: https://github.com/pramitmitra/DataStructure-Algorithms/blob/master/Recursion_Factorial.java
 
-2.Range Sum of BST (https://leetcode.com/problems/range-sum-of-bst/)
+- Range Sum of BST (https://leetcode.com/problems/range-sum-of-bst/)
 Given the root node of a binary search tree, return the sum of values of all nodes with value between L and R (inclusive).
 The binary search tree is guaranteed to have unique values.
 
@@ -64,14 +64,14 @@ Output: 23
 
 
 
-**2.Medium**
+*B.Medium*
 1. Partition Equal Subset Sum
 Ref: https://www.youtube.com/watch?v=3N47yKRDed0
 
-    
-    
 -------------------------------------------------------------
-
+**4. Stack**
+**Code**
+[Stack Code!](https://github.com/pramitmitra/DataStructure-Algorithms/blob/master/Stack.java)
 
 
    
