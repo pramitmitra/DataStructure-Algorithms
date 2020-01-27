@@ -74,8 +74,8 @@ Ref: https://www.youtube.com/watch?v=3N47yKRDed0
     
    
 **8. Trees & Binary Search Trees**
-![BST]
-(https://media.geeksforgeeks.org/wp-content/uploads/BSTSearch.png)
+
+![Image of BST](https://media.geeksforgeeks.org/wp-content/uploads/BSTSearch.png)
  
  
  
