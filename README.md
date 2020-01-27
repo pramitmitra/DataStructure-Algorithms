@@ -15,10 +15,10 @@
 5. Queue
 6. Heap
 7. Sets & Hash Maps
-8. Trees & ##Binary Search Trees##
+8. Trees & **Binary Search Trees
 9. Graphs 
-  9.1 ** Depth First Search**
-  9.2 ** Breadth Firsh Search**
+  **9.1Depth First Search
+  9.2Breadth Firsh Search**
 10. Computational Complexity - time & space
 11. Searching
     11.1 Linear Search
