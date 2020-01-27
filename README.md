@@ -83,6 +83,9 @@ Ref: https://www.youtube.com/watch?v=3N47yKRDed0
 
 **BST**
 ![Image of BST](https://media.geeksforgeeks.org/wp-content/uploads/BSTSearch.png)
+
+**Code**
+[BST Code!](https://github.com/pramitmitra/DataStructure-Algorithms/blob/master/BinarySearchTree.java)
  
  
  
