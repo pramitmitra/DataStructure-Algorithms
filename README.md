@@ -42,7 +42,7 @@ Recursive Function: Can have two cases, base case(tells when to shop the recursi
 **Problems:
 *Easy:***
 1. Find Factorial using recursion.
-
+*Solved Answer*: https://github.com/pramitmitra/DataStructure-Algorithms/blob/master/Recursion_Factorial.java
 
 1. Partition Equal Subset Sum
 Ref: https://www.youtube.com/watch?v=3N47yKRDed0
