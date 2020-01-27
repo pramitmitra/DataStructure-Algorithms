@@ -35,7 +35,7 @@
 18. Bitwise Operations
 
 
-Detail Topics:
+**Detail Topics:**
 ##1. Recursion:
 Recursive Function: Can have two cases, base case(tells when to shop the recursion call) and a recursive calls.
 
