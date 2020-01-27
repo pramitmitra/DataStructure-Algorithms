@@ -76,8 +76,8 @@ Ref: https://www.youtube.com/watch?v=3N47yKRDed0
 
    
 **8. Trees & Binary Search Trees**
-*Study Ref:
-[Geek for geek](!https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
+*Study Ref:*
+[Geek for geek!](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
 ![Image of BST](https://media.geeksforgeeks.org/wp-content/uploads/BSTSearch.png)
  
  
