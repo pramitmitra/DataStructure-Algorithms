@@ -62,11 +62,11 @@ Output: 23
 
 
 **3 LinkedList**
-*3.1 Singly Linked List*
-*Insertion*
-*Deletion*
-*Traverse*
-*Reverse*
+- [x]3.1 Singly Linked List
+- [x]Insertion
+- [x]Deletion
+- [x]Traverse
+- [x]Reverse
 https://www.geeksforgeeks.org/reverse-a-linked-list/
 https://www.youtube.com/watch?v=myqO52fwY5k
 [Code]: 
