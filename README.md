@@ -5,12 +5,12 @@
 2. Array & Matrices
 3. Linked List
   3.1 Singly Linked List
+     1. Insertion
+     2. Deletion
+     3. Traversal
+     4. Reversal
   3.2 Doubly Linked List
   3.3 Circular Linked List
-   * Within each type cover the followings:
-   1. Insertion
-   2. Deletion
-   3. Traversal
 4. Stack 
 5. Queue
 6. Heap
@@ -61,7 +61,15 @@ Input: root = [10,5,15,3,7,13,18,1,null,6], L = 6, R = 10
 Output: 23
 
 
-
+**3 LinkedList**
+*3.1 Singly Linked List
+*Insertion
+*Deletion
+*Traverse
+*Reverse
+https://www.geeksforgeeks.org/reverse-a-linked-list/
+https://www.youtube.com/watch?v=myqO52fwY5k
+[Code]: 
 
 
 *B.Medium*
