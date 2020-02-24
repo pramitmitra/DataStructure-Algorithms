@@ -1,13 +1,11 @@
 # Docker #
 
-* 1. Docker Certified Associate Exam Preparation Guide
-https://github.com/Evalle/DCA
-* 2. Set up a Nginx Load balancer for a dockerized Node.js Application
-https://levelup.gitconnected.com/set-up-a-nginx-load-balancer-for-a-dockerized-node-js-application-6bff1a54655a
+* 1. An Overview of Docker Architecture : https://medium.com/better-programming/an-overview-to-docker-architecture-15407c482c52
+* 2. Docker Certified Associate Exam Preparation Guide : https://github.com/Evalle/DCA
+* 3. Set up a Nginx Load balancer for a dockerized Node.js Application : https://levelup.gitconnected.com/set-up-a-nginx-load-balancer-for-a-dockerized-node-js-application-6bff1a54655a
 
 ## Reading Links:
-* 1. An Overview of Docker Architecture: https://medium.com/better-programming/an-overview-to-docker-architecture-15407c482c52
-
+* 1. 
 
 # Kubernetes #
 
